@@ -1,0 +1,8 @@
+.header {
+  margin: 0;
+
+  box-sizing: border-box;
+  background-color: #712cf9;
+  width: 100vw;
+  height: 7vh;
+}
